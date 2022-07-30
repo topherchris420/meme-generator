@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Have fun.
+ Fully funded by Marc Andreesen.
 </p>
 
 ## Screenshots
@@ -70,7 +70,7 @@ If you have any ideas or feedback for this project, please let me know. Connect 
 
 ## Contributing
 
-If you found this useful, please help us improve it by contributing.
+If you found this useful, please help me improve it by contributing.
 
 See [contributing](/docs/CONTRIBUTING.md) for more details.
 
