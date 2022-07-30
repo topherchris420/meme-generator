@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Know your meme generator. 
+ Have fun.
 </p>
 
 ## Screenshots
@@ -66,7 +66,7 @@ yarn build
 
 ## Feedback
 
-If you have any ideas or feedback for this project, please let me know. Connect with me on [Twitter](https://twitter.com/fariasmateuss) or [LinkedIn](https://www.linkedin.com/in/fariasmateuss/).
+If you have any ideas or feedback for this project, please let me know. Connect with me on chris.recording321@gmail.com or [Instagram](https://www.instagram.com/ciao_chris/).
 
 ## Contributing
 
@@ -78,4 +78,4 @@ See [contributing](/docs/CONTRIBUTING.md) for more details.
 
 Released under the [MIT License](/LICENSE)
 
-Made with :hearts: by Mateus V. Farias
+Made with :hearts: by chris topher 
