@@ -8,11 +8,11 @@ I'm Christopher and I'm the maintainer of this project.
 
 If you encounter bugs, please **do** open an issue describing the bug including steps to easily reproduce it (bonus points for a CodeSandbox that demonstrates the problem). 
 
-If you have an idea for an enhancement, go ahead and send it to my email.
+If you have an idea for an enhancement, go ahead and send it to my email chris.recording321@gmail.com or ciao_chris@tutanota.com.
 
 ## Bug reports
 
-If you encounter a problem with this project, then go read a book.
+If you encounter a problem with this project, please let me know.
 
 - Node and React versions
 - Brief but thorough description of the issue
