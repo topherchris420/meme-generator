@@ -2,20 +2,20 @@
   "heading": {
     "meme_generator": "The Stanford Occassionally",
     "meme_generator_description": "Meme Generator logo - the illustration of BobSponge mocking",
-    "pick_a_meme": "Choose a meme",
-    "customize_your_own": "Customize it"
+    "pick_a_meme": "choose a meme, any meme",
+    "customize_your_own": "nice lol, now fill it with captions"
   },
   "fields": {
     "placeholder": "Text"
   },
   "buttons": {
-    "generate": "Generate",
-    "download": "Download",
+    "generate": "generate!",
+    "download": "download da meme",
     "generate_new": "Generate new",
     "share": "Share"
   },
   "yup": {
-    "mixed_required_field": "Dang, Marc Andreesen said this field is important"
+    "mixed_required_field": "hm, Marc Andreesen said this field is important"
   },
   "404": {
     "you_are_too_late_this_page_is_no_more": "if you're reading this, please wake up"
