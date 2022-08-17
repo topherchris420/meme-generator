@@ -78,4 +78,4 @@ See [contributing](/docs/CONTRIBUTING.md) for more details.
 
 Released under the [MIT License](/LICENSE)
 
-Made with :hearts: by chris topher 
+Made with :hearts: by chris topher and Mateus V. Farias
