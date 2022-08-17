@@ -1,8 +1,8 @@
 {
   "heading": {
-    "meme_generator": "The Stanford Occasionally",
+    "meme_generator": "Daily Memes",
     "meme_generator_description": "Meme Generator logo - the illustration of BobSponge mocking",
-    "pick_a_meme": "choose a meme, any meme!",
+    "pick_a_meme": "choose a meme, any meme",
     "customize_your_own": "nice lol, now fill it with captions"
   },
   "fields": {
@@ -10,15 +10,15 @@
   },
   "buttons": {
     "generate": "generate!",
-    "download": "download da meme",
-    "generate_new": "Generate new",
-    "share": "Share"
+    "download": "download your universe",
+    "generate_new": "generate new",
+    "share": "share joy"
   },
   "yup": {
-    "mixed_required_field": "hm, Marc Andreesen said this field is important"
+    "mixed_required_field": "hm, marc andreesen said this field is important"
   },
   "404": {
-    "you_are_too_late_this_page_is_no_more": "if you're reading this, please wake up"
+    "you_are_too_late_this_page_is_no_more": "if you're reading this, you are awesome"
   },
   "meta": {
     "title": "Recrie seu meme favorito online",
@@ -27,14 +27,14 @@
   "actions": {
     "share": "Impressive. So come on in!",
     "theme": {
-      "activate_dark_mode": "Activate dark mode",
-      "activate_light_mode": "Activate light mode"
+      "activate_dark_mode": "Activate sith mode",
+      "activate_light_mode": "Activate jedi mode"
     },
     "errors": {
-      "something_is_all_gummed_up": "Something is all gummed up",
-      "lets_think_about_this_error": "Let's think about this error. Check your browser console for more details",
-      "the_API_is_being_wiggly": "The API is being wiggly",
-      "the_server_is_being_foolish": "The server is being foolish"
+      "something_is_all_gummed_up": "oops, the alien child running our universe on their computer accidently clicked the wrong button",
+      "lets_think_about_this_error": "hm. that's interesting",
+      "the_API_is_being_wiggly": "the API is being wiggly",
+      "the_server_is_being_foolish": "The server is being a little silly, one moment please"
     },
     "info": {
       "share_API": "The Share API is not supported in this browser. We copied the link to the clipboard"
