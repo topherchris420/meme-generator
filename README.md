@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Fully funded by Marc Andreesen.
+ Fully funded by the Stanford Daily.
 </p>
 
 ## Screenshots
