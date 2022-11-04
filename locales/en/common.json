@@ -1,17 +1,17 @@
 {
   "heading": {
-    "meme_generator": "Daily Memes",
+    "meme_generator": "Meme Generator😎",
     "meme_generator_description": "Meme Generator logo - the illustration of BobSponge mocking",
-    "pick_a_meme": "👫👫👫👫.eth",
-    "customize_your_own": "nice!"
+    "pick_a_meme": "choose a meme☀️",
+    "customize_your_own": "nice!😅"
   },
   "fields": {
-    "placeholder": "🐱"
+    "placeholder": "🎻"
   },
   "buttons": {
-    "generate": "dive in!",
+    "generate": "make p-sets dissappear",
     "download": "download your universe",
-    "generate_new": "generate new",
+    "generate_new": "generate a new poem",
     "share": "share joy"
   },
   "yup": {
@@ -31,7 +31,7 @@
       "activate_light_mode": "Activate jedi mode"
     },
     "errors": {
-      "something_is_all_gummed_up": "oops, the alien child running our universe on their computer accidently clicked the wrong button",
+      "something_is_all_gummed_up": "oops, the alien kid running our universe on their computer accidently clicked the wrong button",
       "lets_think_about_this_error": "hm. that's interesting",
       "the_API_is_being_wiggly": "the API is being wiggly",
       "the_server_is_being_foolish": "The server is being a little silly, one moment please"
